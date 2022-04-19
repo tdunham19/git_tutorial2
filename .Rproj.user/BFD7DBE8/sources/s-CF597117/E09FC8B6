@@ -1,0 +1,27 @@
+{
+    "id": "E09FC8B6",
+    "path": "~/git_tutorial/git_tutorial2/newfile.R",
+    "project_path": "newfile.R",
+    "type": "r_source",
+    "hash": "2964906602",
+    "contents": "",
+    "dirty": false,
+    "created": 1650386525446.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "0,19",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1650386536,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1650386536327,
+    "read_only": false,
+    "read_only_alternatives": []
+}
